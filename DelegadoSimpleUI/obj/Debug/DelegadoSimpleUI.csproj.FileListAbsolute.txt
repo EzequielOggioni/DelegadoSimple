@@ -1,0 +1,13 @@
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\bin\Debug\DelegadoSimpleUI.exe.config
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\bin\Debug\DelegadoSimpleUI.exe
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\bin\Debug\DelegadoSimpleUI.pdb
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\bin\Debug\Entidades.dll
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\bin\Debug\Entidades.pdb
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.csprojAssemblyReference.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.Form1.resources
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.Properties.Resources.resources
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.csproj.GenerateResource.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.csproj.CoreCompileInputs.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.csproj.CopyComplete
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.exe
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleUI\obj\Debug\DelegadoSimpleUI.pdb

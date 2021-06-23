@@ -1,0 +1,6 @@
+C:\Users\egos2\source\repos\DelegadoSimpleUI\Entidades\bin\Debug\Entidades.dll
+C:\Users\egos2\source\repos\DelegadoSimpleUI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\egos2\source\repos\DelegadoSimpleUI\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\Entidades\obj\Debug\Entidades.dll
+C:\Users\egos2\source\repos\DelegadoSimpleUI\Entidades\obj\Debug\Entidades.pdb

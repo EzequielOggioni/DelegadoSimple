@@ -1,0 +1,10 @@
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\bin\Debug\DelegadoSimpleConsola.exe.config
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\bin\Debug\DelegadoSimpleConsola.exe
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\bin\Debug\DelegadoSimpleConsola.pdb
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\bin\Debug\Entidades.dll
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\bin\Debug\Entidades.pdb
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\obj\Debug\DelegadoSimpleConsola.csprojAssemblyReference.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\obj\Debug\DelegadoSimpleConsola.csproj.CoreCompileInputs.cache
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\obj\Debug\DelegadoSimpleConsola.csproj.CopyComplete
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\obj\Debug\DelegadoSimpleConsola.exe
+C:\Users\egos2\source\repos\DelegadoSimpleUI\DelegadoSimpleConsola\obj\Debug\DelegadoSimpleConsola.pdb
